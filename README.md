@@ -1,4 +1,4 @@
-# Cifar-10
+# Cifar-10 with only MLP
 
 The speciality of this project is that I have only used Multi-layer Perceptron model for image classification. (Not CNN)
 
